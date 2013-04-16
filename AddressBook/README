@@ -1,1 +1,4 @@
-to run the
+to run the code, type java -cp %path to target/AddressBook.jar% com.AddressBook.Main
+to clean the project, type mvn clean
+to assemble the jar file, type mvn assembly:assembly
+to generate the javadoc, type mvn javadoc:javadoc
